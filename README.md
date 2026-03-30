@@ -138,3 +138,7 @@ This is primarily a personal learning project, but suggestions and discussions a
 TLA+ is not about writing code - it's about thinking precisely.
 
 If this repository helps you think better about systems, it has achieved its goal.
+
+## License
+
+This project is licensed under the MIT License.
