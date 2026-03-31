@@ -33,4 +33,4 @@ list:
 clean:
 	@echo "Cleaning TLC outputs..."
 	@find . -name "states" -type d -exec rm -rf {} +
-	@find . -name "*.bin" -delete
+	@find . -name "*TTrace*" -delete
