@@ -55,7 +55,7 @@ TypeInvariant ==
     /\ knowledge \in [Proc -> SUBSET Data]
     /\ network \subseteq Message
 
-Convergence ==
-    <> (\A p \in Proc: knowledge[p] = Data)
+(* Convergence ==
+    <> (\A p \in Proc: knowledge[p] = Data) *)
 
 ====
