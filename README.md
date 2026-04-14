@@ -59,7 +59,7 @@ This will run the TLC model checker on all specifications in the repository.
 
 ### Run a specific model
 ```bash
-make run MODEL=models/01-basics/mutual-exclusion/MutualExclusion.tla
+make run MODEL=models/02-state-machines/mutual-exclusion/MutualExclusion.tla
 ```
 
 ### List available models
